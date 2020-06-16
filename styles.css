@@ -169,6 +169,7 @@ h2{
   .dog{
     position:static;
     transform: rotate(0);
+    margin-top:20px;
   }
 
   #title{
